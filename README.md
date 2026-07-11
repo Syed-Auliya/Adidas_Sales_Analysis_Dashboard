@@ -1,6 +1,6 @@
 # 👟 Adidas Sales Analysis Dashboard | Power BI
 
-##  Project Overview
+## Project Overview
 
 This project presents an interactive **Adidas Sales Analysis Dashboard** built using **Microsoft Power BI**. The dashboard provides comprehensive insights into sales performance across different dimensions including time, geography, product categories, retailers, and sales methods.
 
@@ -173,8 +173,8 @@ Some insights that can be derived from this dashboard include:
 
 Aspiring Data Analyst
 
-- LinkedIn: *(Add your LinkedIn Profile)*
-- GitHub: *(Add your GitHub Profile)*
+- LinkedIn: *www.linkedin.com/in/syed-auliya*
+- GitHub: *https://github.com/Syed-Auliya*
 
 ---
 
