@@ -1,6 +1,6 @@
 # 👟 Adidas Sales Analysis Dashboard | Power BI
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an interactive **Adidas Sales Analysis Dashboard** built using **Microsoft Power BI**. The dashboard provides comprehensive insights into sales performance across different dimensions including time, geography, product categories, retailers, and sales methods.
 
@@ -8,15 +8,7 @@ The goal of this project is to transform raw sales data into meaningful business
 
 ---
 
-# 📊 Dashboard Preview
-
-## Main Dashboard
-
-E:\Pbi.project\Adidas project\Dashboard screenshot.png
-
----
-
-# 🎯 Business Objectives
+#  Business Objectives
 
 This dashboard helps answer important business questions such as:
 
@@ -164,8 +156,6 @@ Some insights that can be derived from this dashboard include:
 - Monitor company profitability.
 - Track revenue growth over time.
 - Evaluate regional contribution to overall sales.
-
----
 
 ---
 
