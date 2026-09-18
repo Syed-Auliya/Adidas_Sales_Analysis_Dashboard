@@ -1,8 +1,8 @@
-Adidas Sales Performance Analysis
+## Adidas Sales Performance Analysis
 
-Business question: Where is Adidas losing revenue efficiency across regions, products, and retail partners — and where should sales/marketing focus to improve margins?
+### Business question: Where is Adidas losing revenue efficiency across regions, products, and retail partners — and where should sales/marketing focus to improve margins?
 
-Overview
+#Overview
 
 Analyzed 2 years (2020–2021) of Adidas sales transactions across US regions, retailers, and product categories to identify underperforming segments and margin drivers. Built an interactive Power BI dashboard for stakeholders to filter by sales channel and time period.
 
